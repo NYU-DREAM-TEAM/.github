@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there 👋
+
+NYU Langone’s Program for Medical Education Innovations and Research, also known as PrMEIR, brings together highly skilled clinicians, educators, psychologists, and biostatisticians to stimulate innovation and research on the education of physicians and other healthcare professionals.
+
+Established in 2006 as part of the Division of General Internal Medicine and Clinical Innovation, the program’s mission is to advance medical education scholarship and institute best practices to support patient-centered, evidence-based medical education.
 
 <!--
 
