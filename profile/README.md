@@ -4,6 +4,19 @@ NYU Langone’s Program for Medical Education Innovations and Research, also kno
 
 Established in 2006 as part of the Division of General Internal Medicine and Clinical Innovation, the program’s mission is to advance medical education scholarship and institute best practices to support patient-centered, evidence-based medical education.
 
+## 💾 DREAM Database for Research on Education in Academic Medicine
+
+Our Database for Research on Education in Academic Medicine (DREAM) is a Framingham-style, longitudinal database that researchers can access to study relationships between medical education, residency, and fellowship programs and patient outcomes.
+
+With data from more than 3,000 medical students, residents, and fellows collected for more than 10 years, DREAM holds great promise for overcoming challenges that limit the development of evidence-based medical education and training programs.
+
+DREAM’s strengths include the following:
+
+- the ability to link information over the full span of medical education, from medical school through residency to actual practice
+- data collection from a variety of sources and methods
+- the use of gold standard performance-based measures, such as observed structured clinical exams and unannounced standardized patient visits
+- integration with electronic medical records, patient charts, and patient exit interviews
+
 <!--
 
 **Here are some ideas to get you started:**
